@@ -34,7 +34,7 @@ namespace day16
 
 
 
-            if (val1)
+            if (val1&&val2&&val3&&val4)
              {
             Console.WriteLine("Hello {0},We have your fullname as {1} in our system. your contact number is 91-{2}.\r\n" +
                     "Please,let us know in case of any clarification Thank you BridgeLabz {3}.", name, fname, mb, dt);
